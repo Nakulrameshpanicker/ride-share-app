@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497302455073",
+    "project_id": "sharemyride-eddaa",
+    "storage_bucket": "sharemyride-eddaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497302455073:android:cba44c4181c0e80043f460",
+        "android_client_info": {
+          "package_name": "com.example.share_my_ride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAii1SgUQw9Zz5YUVINOgLDLzkuVtGFHFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
